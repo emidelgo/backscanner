@@ -1,4 +1,4 @@
-module github.com/icza/backscanner
+module github.com/emidelgo/backscanner
 
 go 1.13
 
